@@ -1,5 +1,5 @@
 # Zombie Party
-A top-down arcade zombie shooter written with the HTML5/Javascript Phaser game library.
+A top-down arcade zombie shooter written with the HTML5/JavaScript Phaser game library.
 
 You can play this game at https://ahyattdev.github.io/zombie-party/
 
