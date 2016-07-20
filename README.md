@@ -17,6 +17,7 @@ The textures seen in the game are in assets/sprites/tileset.png.
 
 ## Project Layout
 
+```
 ├── README                  This file
 ├── assets                  Where game assets are stored
 │   ├── levels              Where the game levels are stored
@@ -62,3 +63,4 @@ The textures seen in the game are in assets/sprites/tileset.png.
 ├── phaser.map              Used for debugging
 ├── phaser.min.js           A minified version for faster JIT compilation
 └── stylesheet.css          A minimal CSS stylesheet
+```
