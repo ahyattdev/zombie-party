@@ -1,4 +1,7 @@
-You can play this game at https://ahyattdev.github.io/projects/zombie-party
+# Zombie Party
+A top-down arcade zombie shooter written with the HTML5/Javascript Phaser game library.
+
+You can play this game at https://ahyattdev.github.io/zombie-party/
 
 Welcome to Zombie Party!
 
@@ -12,7 +15,7 @@ The game levels are edited with a program called Tiled.
 
 The textures seen in the game are in assets/sprites/tileset.png. 
 
-PROJECT LAYOUT:
+## Project Layout
 
 ├── README                  This file
 ├── assets                  Where game assets are stored
